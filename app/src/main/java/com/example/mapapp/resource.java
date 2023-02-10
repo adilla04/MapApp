@@ -31,7 +31,7 @@ public class resource extends AppCompatActivity {
         ytube.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                gotoUrl("https://youtu.be/H8WA9CVzSxU");
+                gotoUrl("https://youtu.be/SkLg-GOaLDU");
             }
         });
 
