@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listview" type="id" />
+    <item name="idtxt" type="id" />
+    <item name="titletxt" type="id" />
+    <item name="bodytxt" type="id" />
+    <item name="lv" type="id" />
+    <item name="bodytxt1" type="id" />
+</resources>
